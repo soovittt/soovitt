@@ -54,7 +54,7 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
 ---
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sovit-nayak-7546681bb/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sovit-nayak-7546681bb/)]
 [![Website](https://img.shields.io/badge/Website-1f1f1f?logo=google-chrome&logoColor=white)](https://lensai.tech)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SovitN41884)  
 
