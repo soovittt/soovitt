@@ -15,6 +15,8 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
 - 🧬 [OpenTechBio/Olaf](https://github.com/OpenTechBio/Olaf) — open life-science analysis platform  
 - 📊 [Quantinent](https://github.com/soovitt/Quantinent) — quantitative finance toolkit  
 - 🚗 [Predictive-Maintainance-For-Vehicles](https://github.com/soovitt/Predictive-Maintainance-For-Vehicles) — ML for proactive vehicle reliability
+- 🤖 [Lincoln AI](https://lincoln-ai.co/) — building Law AI infrastructure for reliable, production-ready systems  
+
 
 ---
 
