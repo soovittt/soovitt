@@ -45,7 +45,7 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
   <img src="https://streak-stats.demolab.com?user=soovittt&theme=radical" alt="GitHub streak for soovittt"/>
 </p>
 <p align="center">
-  <img src="metrics.svg" alt="GitHub metrics (includes private contributions)"/>
+  <img src="github-metrics.svg" alt="GitHub metrics (includes private contributions)"/>
 </p>
 
 ---
