@@ -5,7 +5,7 @@
 # 👋 Hi, I’m Sovit
 
 I’m an engineer exploring the intersection of **AI, AR, and systems engineering**.  
-Passionate about **AI agents, embedded systems, and solving hard real-world problems** — starting in the engineering industry.  
+Passionate about **AI agents, embedded systems, and solving hard real-world problems** — starting in the engineering industry.
 
 ---
 
@@ -14,7 +14,7 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
 - 🧾 [AuditFlow-AI](https://github.com/soovitt/AuditFlow-AI) — compliance & audit automation with AI  
 - 🧬 [OpenTechBio/Olaf](https://github.com/OpenTechBio/Olaf) — open life-science analysis platform  
 - 📊 [Quantinent](https://github.com/soovitt/Quantinent) — quantitative finance toolkit  
-- 🚗 [Predictive-Maintainance-For-Vehicles](https://github.com/soovitt/Predictive-Maintainance-For-Vehicles) — ML for proactive vehicle reliability  
+- 🚗 [Predictive-Maintainance-For-Vehicles](https://github.com/soovitt/Predictive-Maintainance-For-Vehicles) — ML for proactive vehicle reliability
 
 ---
 
@@ -35,12 +35,12 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soovitt&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soovitt&layout=compact&theme=radical" alt="langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soovitt&show_icons=true&theme=radical" alt="GitHub stats for soovitt" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soovitt&layout=compact&theme=radical" alt="Top languages for soovitt" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=soovitt&theme=radical" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=soovitt&theme=radical" alt="GitHub streak for soovitt"/>
 </p>
 
 ---
@@ -49,16 +49,15 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
 - 🚀 200+ engineers on LensAI waitlist  
 - 🏆 15+ pilots across labs & manufacturing  
 - 🔬 Published multiple AI/ML projects in open source  
-- ⚡ Experienced in end-to-end building: embedded hardware → backend infra → intelligent apps  
+- ⚡ End-to-end builder: embedded hardware → backend infra → intelligent apps  
 
 ---
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/sovit-nayak-7546681bb/)]
-[![Website](https://img.shields.io/badge/Website-1f1f1f?logo=google-chrome&logoColor=white)](https://lensai.tech)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SovitN41884)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sovit-nayak-7546681bb/)  
+[![Website](https://img.shields.io/badge/Website-1f1f1f?logo=google-chrome&logoColor=white)](https://lens-ai.info/)  
+[![X / Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/SovitN41884)  
 
 ---
 
 <p align="center">✨ thanks for stopping by — always building, always learning ✨</p>
-
