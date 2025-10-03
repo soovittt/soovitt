@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="banner" />
+  <img src="banner.png" alt="banner" />
 </p>
 
 # 👋 Hi, I’m Sovit
