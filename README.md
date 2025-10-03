@@ -35,12 +35,12 @@ Passionate about **AI agents, embedded systems, and solving hard real-world prob
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soovitt&show_icons=true&theme=radical" alt="GitHub stats for soovitt" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soovitt&layout=compact&theme=radical" alt="Top languages for soovitt" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soovittt&show_icons=true&theme=radical" alt="GitHub stats for soovittt" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soovittt&layout=compact&theme=radical" alt="Top languages for soovittt" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=soovitt&theme=radical" alt="GitHub streak for soovitt"/>
+  <img src="https://streak-stats.demolab.com?user=soovittt&theme=radical" alt="GitHub streak for soovittt"/>
 </p>
 
 ---
